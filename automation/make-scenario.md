@@ -16,3 +16,6 @@ Automatizar o fluxo entre o formulário de entrada, o modelo de IA e o registro 
 ## Link do cenário público
 
 https://us2.make.com/public/shared-scenario/eTDoIAszJx8/conecta
+
+<img width="1787" height="917" alt="Print Make" src="https://github.com/user-attachments/assets/8c43b731-2faa-4bcf-9f33-55a2c11cd60a" />
+
